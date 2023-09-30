@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ConversaoDeTemperatura {
+public class ConversaoTemperatura {
 
     /*
      * Escreva um programa Java que declare uma variável do tipo double para
