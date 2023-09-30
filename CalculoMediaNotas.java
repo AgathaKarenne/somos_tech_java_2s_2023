@@ -1,4 +1,4 @@
-public class CalculoMediaNotas {
+public class CalculoMediaNota {
 
     public static void main(String[] args) {
 
